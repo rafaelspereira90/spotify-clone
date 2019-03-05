@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "global": "^4.3.2",
+    "heroku": "^7.22.2",
     "prop-types": "^15.7.2",
     "rc-slider": "^8.6.4",
     "react": "^16.7.0",
